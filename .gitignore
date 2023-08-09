@@ -2,4 +2,6 @@
 *.tfstate.backup*
 *.tfstate*
 *.lock.hcl*
+*.pem
+*.xml
 
